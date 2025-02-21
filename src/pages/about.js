@@ -5,7 +5,6 @@ import Skills from "@/components/Skills";
 import Head from "next/head";
 import Image from "next/image";
 import profilepic from "../../assets/aboutme.jpg";
-import Experience from "@/components/Experience";
 
 const about = () => {
   return (
@@ -23,7 +22,7 @@ const about = () => {
           <div className="grid w-full grid-cols-5 gap-16">
             <div className="col-span-2 flex flex-col items-start justify-start text-center  dark:text-light">
               <p className="font-medium mt-10 mb-3">
-                Hello, I'm Biplope Maharjan I am a passionate and versatile
+                Hello, I`m Biplope Maharjan I am a passionate and versatile
                 creative professional with a diverse skillset spanning web
                 development, graphic design and a mobile application developer.
                 I thrive on crafting user-centric experiences that are not only
@@ -32,7 +31,7 @@ const about = () => {
               </p>
               <p className="my-4 font-medium">
                 I believe that my multifaceted expertise and dedication to
-                continuous improvement make me a valuable asset to any team. I'm
+                continuous improvement make me a valuable asset to any team. IQm
                 confident that I can bring a unique perspective and a wealth of
                 skills to your project, helping you achieve your desired
                 outcomes.
